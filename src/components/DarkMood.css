@@ -1,0 +1,23 @@
+/* styles.css */
+
+:root {
+    --primary-bg: #fff; /* Light mode background color */
+    --primary-text: #333; /* Light mode text color */
+    --secondary-bg: #000; /* Dark mode background color */
+    --secondary-text: #fff; /* Dark mode text color */
+  }
+  
+  /* Tailwind CSS classes for light mode */
+  .light-mode {
+    background-color: var(--primary-bg);
+    color: var(--primary-text);
+  }
+  
+  /* Tailwind CSS classes for dark mode */
+  .dark-mode {
+    background-color: var(--secondary-bg);
+    color: var(--secondary-text);
+  }
+  
+  /* Add more custom styles or extend Tailwind classes as needed */
+  

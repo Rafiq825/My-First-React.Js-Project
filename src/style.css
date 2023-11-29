@@ -1,0 +1,16 @@
+/* styles.css */
+
+:root {
+    --primary-bg: #fff; /* Light mode background color */
+    --primary-text: #333; /* Light mode text color */
+    --secondary-bg: #000; /* Dark mode background color */
+    --secondary-text: #fff; /* Dark mode text color */
+  }
+  
+  body {
+    background-color: var(--primary-bg);
+    color: var(--primary-text);
+  }
+  
+  /* Add styles for your e-commerce components here */
+  
