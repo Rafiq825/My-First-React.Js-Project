@@ -3,7 +3,7 @@
 <a href="https://twitter.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-rafiq-009696286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app&fbclid=PAAaYiV-7hbpVL8y4JiONnkxUdmjgZGicBS-QioPYfqk-sEL5ZafSify4N7oM_aem_AfYgJd3apW5yPG3ORhIUlHbCO80G832rqujZLMBb3GiXHXxSwTE9g7zwHA3ETfNyg2w ">
+<a href="https://www.linkedin.com/in/muhammad-rafiq ">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/AjayKhalsa">
