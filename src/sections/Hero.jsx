@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { useState } from 'react'
 import ClicButton from '../components/ClicButton'
 import { arrowRight } from '../assets/icons'
