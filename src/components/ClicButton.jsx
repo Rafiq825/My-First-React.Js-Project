@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 
 const ClicButton = ({label, iconUrl,backgroundColor, textColor, borderColor, fullWidth}) => {
